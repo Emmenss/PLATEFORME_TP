@@ -1,0 +1,30 @@
+.step-bar {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+ }
+ 
+ .step {
+    width: 24%;
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    cursor: pointer;
+ }
+ 
+ .step.active {
+    background-color: #007BFF;
+    color: white;
+ }
+ 
+ #next-button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+ }
+ 
