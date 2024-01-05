@@ -1,17 +1,4 @@
-# [Corporate UI Dashboard Laravel](https://corporate-ui-dashboard-laravel.creative-tim.com)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/corporate-ui-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/corporate-ui-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
-
-_Frontend version_: Corporate UI Dashboard v1.0.0. More info at https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html
-[ <img src="public/assets/img/thumbnail-free.jpg" width="100%" />](https://corporate-ui-dashboard-laravel.creative-tim.com/?ref=sudl-readme)
-
-Introducing Corporate UI Dashboard Laravel, [Creative Tim](https://creative-tim.com/)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
-
-Corporate UI Dashboard is based on Bootstrap 5 and is made of hundred of elements, designed blocks, and fully coded pages. You can easily customize your projects to match your brand identity and specific needs.
-
-Experience the power of our Admin Template and take your corporate website to the next level!
 
 ## Table of Contents
 
@@ -69,31 +56,6 @@ Register an user or login with data from your database and start testing (make s
 
 Besides the dashboard, the auth pages, the billing and tables pages, it has also an edit profile page. All the necessary files are installed out of the box and all the needed routes are added to `routes/web.php`. Keep in mind that all of the features can be viewed once you login using the credentials provided or by registering your own user.
 
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://corporate-ui-dashboard-laravel.creative-tim.com/?ref=sudl-readme)
-
-| HTML | Laravel |
-| --- | --- |
-| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/727/original/corporate-ui-dashboard-pro.jpg?1678117894")](https://www.creative-tim.com/product/corporate-ui-dashboard) | [![Laravel](public/assets/img/thumbnail-free.jpg)](https://www.creative-tim.com/product/corporate-ui-dashboard-laravel)  | 
-
-
-## Demo
-
-| Register                                                                                                       | Login                                                                                                    | Dashboard                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [<img src="screenshots/register.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/signin) | [<img src="screenshots/login.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/signup) | [<img src="screenshots/dashboard.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/dashboard) |
-
-| Forgot Password Page                                                                                                               | Reset Password Page                                                                                               | Profile Page                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [<img src="screenshots/forgot-password.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/forgot-password) | [<img src="screenshots/reset-password.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/signin) | [<img src="screenshots/profile-page.png" width="322" />](https://corporate-ui-dashboard-laravel.creative-tim.com/laravel-examples/user-profile) |
-
-[View More](https://corporate-ui-dashboard-laravel.creative-tim.com/dashboard)
-
-## Documentation
-
-The documentation for the Corporate UI Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/installation-guide/corporate-ui-dashboard).
 
 ### Login
 
@@ -300,62 +262,5 @@ You can access the dashboard either by using the "**Dashboard**" link in the lef
 |           |-- AppLayout.php
 |           |-- GuestLayout.php
 |           `-- navbarGuest.php
-...
-```
-## Browser Support
 
-At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Corporate UI Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Corporate UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/corporate-ui-dashboard).
-2. Providing us reproductible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying the browser you encountered the issue on might help.
-
-## Licensing
-
--   Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-corporateuidashboard)
--   Creative Tim [license](https://www.creative-tim.com/license?ref=readme-corporateuidashboard)
-
-## Useful Links
-
--   [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
--   [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
--   [Blog Creative Tim](http://blog.creative-tim.com/)
--   [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
--   [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=corporateuidashboard-readme) from Creative Tim
--   [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=corporateuidashboard-readme) from Creative Tim
--   [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=corporateuidashboard-readme) from Creative Tim
--   [More products](https://www.creative-tim.com/bootstrap-themes?ref=corporateuidashboard-readme) from Creative Tim
--   Check our Bundles [here](https://www.creative-tim.com/bundles??ref=corporateuidashboard-readme)
-
-### Social Media
-
-### Creative Tim
-
-Twitter: <https://twitter.com/CreativeTim?ref=corporateuidashboard-readme>
-
-Facebook: <https://www.facebook.com/CreativeTim?ref=corporateuidashboard-readme>
-
-Dribbble: <https://dribbble.com/creativetim?ref=corporateuidashboard-readme>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=corporateuidashboard-readme>
-
-### Updivision:
-
-Twitter: <https://twitter.com/updivision?ref=corporateuidashboard-readme>
-
-Facebook: <https://www.facebook.com/updivision?ref=corporateuidashboard-readme>
-
-Linkedin: <https://www.linkedin.com/company/updivision?ref=corporateuidashboard-readme>
-
-UPDIVISION Blog: <https://updivision.com/blog/?ref=corporateuidashboard-readme>
-
-## Credits
-
--   [Creative Tim](https://creative-tim.com/?ref=corporateuidashboard-readme)
--   [UPDIVISION](https://updivision.com/?ref=corporateuidashboard-readme)
